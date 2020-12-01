@@ -338,3 +338,9 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+#Executables
+*.exe
+2020/.vscode/settings.json
+2020/code/.vscode/c_cpp_properties.json
+2020/code/.vscode/settings.json
