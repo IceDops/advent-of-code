@@ -29,7 +29,7 @@ int main() {
         if (s[range - 1] == k[0] ^ s[range2 - 1] == k[0]) x++;
 
      }
-    std::cout << b++ << " passwords was correct for part 1!" << std::endl;
-    std::cout << x++ << " passwords was correct for part 2!" << std::endl;
+    std::cout << b++ << " passwords were correct for part 1!" << std::endl;
+    std::cout << x++ << " passwords were correct for part 2!" << std::endl;
     return 0;
 }
