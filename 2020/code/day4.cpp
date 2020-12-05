@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <vector>
 #include <fstream>
 #include <regex>
 
@@ -60,5 +59,6 @@ int main() {
 		}
 	}
 	std::cout << "Correct passports for part 2: " << t << std::endl;
+	return 0;
 }
 
