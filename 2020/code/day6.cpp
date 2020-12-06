@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include <string>
-#include<stdio.h>
+
 
 std::string input;
 int e[26] = { 0 };
@@ -33,13 +33,10 @@ int main() {
 
 			}
 
-
-			std::cout << "Sum : " << sum << std::endl;
 			members = 0;
 			for (int y = 0; y < 26; y++) {
 				e[y] = 0;
 			}
-
 
 		}
 
